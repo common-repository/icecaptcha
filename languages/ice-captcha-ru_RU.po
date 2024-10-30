@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-21 16:11+0200\n"
+"PO-Revision-Date: 2011-07-21 16:12+0200\n"
+"Last-Translator: asdads <asdasd@asdads.sd>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../ice-captcha-admin.php:7
+msgid "You do not have permissions for managing this option"
+msgstr "У вас нет прав для редактирования этих настроек"
+
+#: ../ice-captcha-admin.php:30
+msgid "Options saved."
+msgstr "Настройки сохранены."
+
+#: ../ice-captcha-admin.php:36
+msgid "Options"
+msgstr "Настройки"
+
+#: ../ice-captcha-admin.php:48
+msgid "Enabled for:"
+msgstr "Включена для"
+
+#: ../ice-captcha-admin.php:52
+msgid "Registration form"
+msgstr "Формы регистрации"
+
+#: ../ice-captcha-admin.php:60
+msgid "Comment form"
+msgstr "Формы комментария"
+
+#: ../ice-captcha-admin.php:68
+msgid "Login form"
+msgstr "Формы логина"
+
+#: ../ice-captcha-admin.php:72
+msgid "Circle raduis"
+msgstr "Радиус круга"
+
+#: ../ice-captcha-admin.php:78
+msgid "Scale"
+msgstr "Масштаб"
+
+#: ../ice-captcha-admin.php:88
+msgid "Update Options"
+msgstr "Сохранить"
+
+#: ../ice-captcha.php:40
+msgid "Ice Captcha Options"
+msgstr "Настройки Ice Captcha"
+
+#: ../ice-captcha.php:40
+msgid "Ice Captcha"
+msgstr "Ice Captcha"
+
+#: ../ice-captcha.php:50
+msgid "Settings"
+msgstr "Настройки"
+
+#: ../ice-captcha.php:78
+#: ../ice-captcha.php:91
+#: ../ice-captcha.php:118
+msgid "Submit form by finding circle"
+msgstr "Подтвердите форму найдя круг"
+
+#: ../ice-captcha.php:125
+#: ../ice-captcha.php:141
+#: ../ice-captcha.php:225
+msgid "ERROR"
+msgstr "ОШИБКА"
+
+#: ../ice-captcha.php:125
+#: ../ice-captcha.php:168
+msgid "Please select circle on the image."
+msgstr "Найдите круг на изображении."
+
+#: ../ice-captcha.php:141
+#: ../ice-captcha.php:184
+#: ../ice-captcha.php:225
+msgid "You didn't find circle! Please, try again."
+msgstr "Вы неверно нашли круг, повторите попытку."
+
+#: ../ice-captcha.php:200
+msgid "<strong>ERROR</strong>: The username field is empty."
+msgstr ""
+
+#: ../ice-captcha.php:203
+msgid "<strong>ERROR</strong>: The password field is empty."
+msgstr ""
+
+#: ../ice-captcha.php:234
+#, php-format
+msgid "<strong>ERROR</strong>: Invalid username. <a href=\"%s\" title=\"Password Lost and Found\">Lost your password</a>?"
+msgstr ""
+
+#: ../ice-captcha.php:242
+msgid "<strong>ERROR</strong>: Your account has been marked as a spammer."
+msgstr ""
+
+#: ../ice-captcha.php:248
+msgid "Site Suspended."
+msgstr ""
+
+#: ../ice-captcha.php:258
+#, php-format
+msgid "<strong>ERROR</strong>: Incorrect password. <a href=\"%s\" title=\"Password Lost and Found\">Lost your password</a>?"
+msgstr ""
+
